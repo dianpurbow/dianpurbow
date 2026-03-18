@@ -1,38 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=50" alt="Banner" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Valerie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20AI%20Enthusiast%20%F0%9F%9A%80&descAlignY=60&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Hello+World!+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Learning+Django+%26+Laravel+%F0%9F%94%A5;Student+%40+USM+%F0%9F%8E%93;AI+%26+Cloud+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=username-github-mu&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/username-github-mu?tab=followers">
+  <img src="https://img.shields.io/github/followers/username-github-mu?style=for-the-badge&color=48CAE4&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers" />
+</a>
+
 </div>
 
-## Hi there, I'm Dian Purbo Wicaksono👨‍💻
+---
 
-Saya adalah mahasiswa Teknik Informatika semester 5 di Universitas Semarang (USM). Saya memiliki minat di bidang Software Development, Artificial Intelligence, dan Game Development.
+## 🧑‍💻 About Me
 
-### 🛠️ Skills & Tech Stack
-* **Frameworks:** Laravel, Django
-* **Cloud & Tools:** Google Cloud Platform (GCP), SumoPod, n8n
-* **AI & Data:** Machine Learning, NLP, Computer Vision
+```python
+class Valerie:
+    def __init__(self):
+        self.name       = "Valerie"
+        self.nickname   = "Sir V"
+        self.education  = "Universitas Semarang (USM) 🎓"
+        self.interests  = ["Software Development 💻", "Artificial Intelligence 🤖", "Cloud Computing ☁️"]
+        self.stack      = ["Django 🐍", "Laravel 🔥"]
+        self.status     = "Always learning, always growing 🚀"
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dianpurbow&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianpurbow&theme=radium" alt="GitHub Streak" />
-</div>
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
 
-### 🚀 Current Projects
-* **Elnonton:** Chatbot Telegram terintegrasi Google Drive, VPS, dan workflow n8n untuk kurasi film.
-* **Recipe App:** Aplikasi manajemen resep makanan.
-* **AI Capstone:** Proyek mentoring berfokus pada ML, NLP, dan Computer Vision.
-* **Indra Echo Archer:** Proyek pembuatan Game menghandle posisi Lore,Character,SFX, dan VFX Maker
-
-### 💼 Experience
-* Magang - Ananda Computer (Magang + Acting leader )
-* Magang - Cakrawala Computer ( Manage Stok )
-* Magang - Louis Kienne ( IT Support )
-
-### 🌐 Connect with Me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/username-linkedin-mu)
-[<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://link-portofolio-mu.com)
-
-<br />
-
-### ⚡ Fun Facts
-Selain *coding*, saya menghabiskan waktu luang dengan bermain *Persona 3 Reload*, *Stellar Blade*, dan *Tekken 8*, serta menonton anime seperti seri *Gundam*, *Guilty Crown*, dan *One-Punch Man*.
+me = Valerie()
+me.say_hi()
