@@ -117,7 +117,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucius122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dianpurbow&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucius122&bg_color=0d1117&color=6C63FF&line=48CAE4&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dianpurbow&bg_color=0d1117&color=6C63FF&line=48CAE4&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -134,17 +134,17 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://www.instagram.com/prop.lucy/" target="_blank">
+<a href="https://www.instagram.com/purbodian/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;
-<a href="https://github.com/lucius122" target="_blank">
+<a href="https://github.com/purbodian" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-> 💬 *"Satu baris kode sehari, seribu langkah menuju impian"* ✨
+> 💬 *"Good woman exist in every corner of this world but unfortunately the world is round"* 
 
 </div>
 
