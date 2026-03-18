@@ -97,19 +97,18 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 
 </div>
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucius122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=48CAE4&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dianpurbow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=48CAE4&text_color=ffffff"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucius122&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianpurbow&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucius122&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=48CAE4" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dianpurbow&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=48CAE4" />
 
 </div>
 
