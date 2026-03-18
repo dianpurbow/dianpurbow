@@ -13,7 +13,7 @@ Saya adalah mahasiswa Teknik Informatika semester 5 di Universitas Semarang (USM
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=dianpurbow&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dianpurbow&show_icons=true&theme=radium" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianpurbow&theme=radium" alt="GitHub Streak" />
 </div>
 
