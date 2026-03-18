@@ -24,17 +24,17 @@
 ## 🧑‍💻 About Me
 
 ```python
-class Valerie:
+class DianPurboWicaksono:
     def __init__(self):
         self.name       = "Dian Purbo Wicaksono"
         self.nickname   = "Dian"
         self.education  = "Universitas Semarang (USM) "
-        self.interests  = ["Software Development ", "Artificial Intelligence ", "Cloud Computing ","Game Develompment"]
-        self.learn      = ["Django ", "Laravel ","Unreal Engine"]
+        self.interests  = ["Software Development ", "Artificial Intelligence ", "Cloud Computing ","Game Develompment","3D Modeling and Design"]
+        self.learn      = ["Django ", "Laravel ","Unreal Engine","Blender"]
         self.status     = "Heavenly Demon pernah berkata 美味的点心"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Makasih udah mampir king.")
 
 me = DianPurboWicaksono()
 me.say_hi()
@@ -42,7 +42,7 @@ me.say_hi()
 
 ---
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
 <table>
   <tr>
@@ -51,19 +51,19 @@ me.say_hi()
   </tr>
   <tr>
     <td>🌱 <strong>Currently learning</strong></td>
-    <td>Django & Laravel</td>
+    <td>Laravel,Unreal Engine & Blender</td>
   </tr>
   <tr>
     <td>💡 <strong>Interested in</strong></td>
-    <td>Backend Development, REST APIs, Web Apps</td>
+    <td>Game Development, Artifical Intelligence</td>
   </tr>
   <tr>
     <td>🎯 <strong>Goal</strong></td>
-    <td>Become a Full-Stack Developer</td>
+    <td>Become a CEO of Some Game Company</td>
   </tr>
   <tr>
     <td>⚡ <strong>Fun fact</strong></td>
-    <td>I debug with print() and I'm proud of it 😄</td>
+    <td>Ingin jadi Programmer tapi enggan ngoding</td>
   </tr>
 </table>
 
