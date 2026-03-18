@@ -141,6 +141,10 @@ me.say_hi()
 <a href="https://github.com/purbodian" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
+<a href="https://youtube.com/@https://youtube.com/@shyuukato?si=i6RK6OpGhyeYJc_g" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
 <br/><br/>
 
