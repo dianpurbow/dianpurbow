@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=lucius122&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dianpurbow&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/lucius122?tab=followers">
+<a href="https://github.com/dianpurbow?tab=followers">
   <img src="https://img.shields.io/github/followers/lucius122?style=for-the-badge&color=48CAE4&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers" />
 </a>
 
@@ -24,19 +24,19 @@
 ## 🧑‍💻 About Me
 
 ```python
-class LutfiBrajaMunirozaman:
+class Valerie:
     def __init__(self):
-        self.name       = "Lutfi Braja Munirozaman"
-        self.nickname   = "Lutfi"
-        self.education  = "Semarang University & Infinite Learning 🎓"
-        self.learning   = ["Django 🐍", "Laravel 🔥"]
-        self.passion    = "Building robust backend systems"
-        self.status     = "Always learning, always growing 🚀"
+        self.name       = "Dian Purbo Wicaksono"
+        self.nickname   = "Dian"
+        self.education  = "Universitas Semarang (USM) "
+        self.interests  = ["Software Development ", "Artificial Intelligence ", "Cloud Computing ","Game Develompment"]
+        self.learn      = ["Django ", "Laravel ","Unreal Engine"]
+        self.status     = "Heavenly Demon pernah berkata 美味的点心"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
-me = LutfiBrajaMunirozaman()
+me = DianPurboWicaksono()
 me.say_hi()
 ```
 
