@@ -3,7 +3,7 @@
 <img src="Gemini_Generated_Image_cpg3ftcpg3f33tcpg3.png" width="100%" alt="Header Banner" style="border-radius: 15px; margin-bottom: 20px;" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Wulfgang's+Profile!+%F0%9F%91%8B;Software+Developer+in+Progress+%F0%9F%9A%80;Mastering+Laravel+%26+Django+%F0%9F%94%A5;Exploring+Unreal+Engine+%F0%9F%8E%AE;Subscribe+Shyuukato!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+in+Progress+%F0%9F%9A%80;Mastering+Laravel+%26+Django+%F0%9F%94%A5;Exploring+Unreal+Engine+%F0%9F%8E%AE;Subscribe+Shyuukato!" alt="Typing SVG" />
 </a>
 
 <br/>
