@@ -28,20 +28,46 @@
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+  <h3>🧑‍💻 About Me</h3>
+</div>
 
-```python
-class DianPurboWicaksono:
-    def __init__(self):
-        self.name       = "Dian Purbo Wicaksono"
-        self.nickname   = "Wulfgang"
-        self.education  = "Universitas Semarang (USM)"
-        self.interests  = ["Software Development", "Artificial Intelligence", "Cloud Computing", "Game Development", "3D Modeling"]
-        self.learn      = ["Django", "Laravel", "Unreal Engine", "Blender"]
-        self.status     = "Heavenly Demon pernah berkata 美味的点心"
+<div align="center" style="background-color: #1a1a2e; padding: 25px; border-radius: 15px; border: 2px solid #6C63FF; max-width: 900px; margin: 0 auto; display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap; text-align: left;">
+  
+  <div style="flex: 0 0 240px; margin: 15px;">
+    <img src="https://raw.githubusercontent.com/dianpurbow/dianpurbow/refs/heads/main/SHin%201.png" width="230" style="border-radius: 12px; border: 3px solid #6C63FF;" alt="Wulfgang Tech Lotus" />
+  </div>
 
-    def say_hi(self):
-        print("Makasih udah mampir king.")
+  <div style="flex: 1; min-width: 300px; margin: 15px; color: #fff; font-family: 'Poppins', sans-serif;">
+    <p>Aku Merc</p>
+    
+    <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-top: 15px;">
+      <div style="flex: 1; min-width: 140px;">
+        <p>👤 <strong>Nickname:</strong> Shin</p>
+        <p>🎓 <strong>Pendidikan:</strong> Universitas Semarang (USM)</p>
+        <p>⚡ <strong>Status:</strong> <em>"Heavenly Demon pernah berkata 美味的点心"</em></p>
+      </div>
+      
+      <div style="flex: 1; min-width: 140px;">
+        <p>💡 <strong>Fokus Utama:</strong></p>
+        <ul style="padding-left: 15px; margin-top: 5px;">
+          <li>Software Development</li>
+          <li>Artificial Intelligence</li>
+          <li>Cloud Computing</li>
+          <li>Game Development</li>
+          <li>3D Modeling</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div style="margin-top: 15px;">
+        <p>🚀 <strong>Sedang Mempelajari:</strong></p>
+        <p>Django, Laravel, Unreal Engine, Blender</p>
+    </div>
+    
+    <div style="margin-top: 25px; text-align: right; border-top: 1px solid #6C63FF; padding-top: 10px;">
+        <p style="color: #6C63FF;"><em>"Makasih udah mampir king."</em></p>
+    </div>
 
-me = DianPurboWicaksono()
-me.say_hi()
+  </div>
+</div>
