@@ -32,17 +32,17 @@
 
 <div align="center">
   <a href="https://github.com/dianpurbow">
-    <img src="https://avatars.githubusercontent.com/u/104928135?v=4" width="180" style="border-radius: 50%;" alt="Wulfgang Avatar" />
+    <img src="https://raw.githubusercontent.com/dianpurbow/dianpurbow/refs/heads/main/ShinMerc.png" width="180" style="border-radius: 50%;" alt="Wulfgang Avatar" />
   </a>
   <br>
-  <p style="color: #48CAE4; font-size: 1.2em;"><strong>Aku Merc</strong></p>
+  <p style="color: #48CAE4; font-size: 1.2em;"><strong>Shin der Verzweiflung</strong></p>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="50%">
-        <p>👤 <strong>Nickname:</strong> Wulfgang</p>
+        <p>👤 <strong>Nickname:</strong> Shin</p>
         <p>🎓 <strong>Pendidikan:</strong> Universitas Semarang (USM)</p>
         <p>⚡ <strong>Status:</strong> <em>"Heavenly Demon pernah berkata 美味的点心"</em></p>
       </td>
@@ -66,7 +66,7 @@
     <tr>
       <td colspan="2" align="right">
         <hr>
-        <em>"Makasih udah mampir king."</em>
+        <em>"M."</em>
       </td>
     </tr>
   </table>
