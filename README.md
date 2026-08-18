@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
   <a href="https://github.com/dianpurbow">
@@ -42,12 +42,12 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <p>👤 <strong>Nickname:</strong> Dian ( My net Name Shin ) </p>
-        <p>🎓 <strong>Pendidikan:</strong> Universitas Semarang (USM)</p>
-        <p>⚡ <strong>Status:</strong> <em>"Heavenly Demon pernah berkata 美味的点心"</em></p>
+        <p> <strong>Nickname:</strong> Dian ( My net Name Shin ) </p>
+        <p> <strong>Pendidikan:</strong> Universitas Semarang (USM)</p>
+        <p><strong>Status:</strong> <em>"Heavenly Demon pernah berkata 美味的点心"</em></p>
       </td>
       <td valign="top" width="50%">
-        <p>💡 <strong>Know More About Me</strong></p>
+        <p><strong>Know More About Me</strong></p>
         <ul>
           <li>Instagram : <a href="https://www.instagram.com/purbodian/?hl=en">@purbodian</a></li>
           <li>Youtube   : <a href="https://www.youtube.com/@ShyuuKato">ShyuuKato</a></li>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td colspan="2" valign="top">
-        <p>🚀 <strong>My Speaciality </strong></p>
+        <p><strong>My Speaciality </strong></p>
         <p> Game Development, Software Development, 3D Modelling, 3D Rigging and Animation </p>
       </td>
     </tr>
