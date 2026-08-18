@@ -42,18 +42,18 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <p>👤 <strong>Nickname:</strong>Dian ( My net Name Shin ) </p>
+        <p>👤 <strong>Nickname:</strong> Dian ( My net Name Shin ) </p>
         <p>🎓 <strong>Pendidikan:</strong> Universitas Semarang (USM)</p>
         <p>⚡ <strong>Status:</strong> <em>"Heavenly Demon pernah berkata 美味的点心"</em></p>
       </td>
       <td valign="top" width="50%">
-        <p>💡 <strong>Main Focus </strong></p>
+        <p>💡 <strong>Know More About Me</strong></p>
         <ul>
-          <li>Software Development</li>
-          <li>Artificial Intelligence</li>
-          <li>3D Rigger </li>
-          <li>Game Development</li>
-          <li>3D Modeling</li>
+          <li>Instagram : <a href="https://www.instagram.com/purbodian/?hl=en">@purbodian</a></li>
+          <li>Youtube   : <a href="https://www.youtube.com/@ShyuuKato">ShyuuKato</a></li>
+          <li>Discord   : # </li>
+          <li>----</li>
+          <li>--</li>
         </ul>
       </td>
     </tr>
@@ -71,5 +71,3 @@
     </tr>
   </table>
 </div>
-
----
