@@ -42,16 +42,16 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <p>👤 <strong>Nickname:</strong> Shin</p>
+        <p>👤 <strong>Nickname:</strong>Dian ( My net Name Shin ) </p>
         <p>🎓 <strong>Pendidikan:</strong> Universitas Semarang (USM)</p>
         <p>⚡ <strong>Status:</strong> <em>"Heavenly Demon pernah berkata 美味的点心"</em></p>
       </td>
       <td valign="top" width="50%">
-        <p>💡 <strong>Fokus Utama:</strong></p>
+        <p>💡 <strong>Main Focus </strong></p>
         <ul>
           <li>Software Development</li>
           <li>Artificial Intelligence</li>
-          <li>Cloud Computing</li>
+          <li>3D Rigger </li>
           <li>Game Development</li>
           <li>3D Modeling</li>
         </ul>
@@ -59,8 +59,8 @@
     </tr>
     <tr>
       <td colspan="2" valign="top">
-        <p>🚀 <strong>Sedang Mempelajari:</strong></p>
-        <p>Django, Laravel, Unreal Engine, Blender</p>
+        <p>🚀 <strong>My Speaciality </strong></p>
+        <p> Game Development, Software Development, 3D Modelling, 3D Rigging and Animation </p>
       </td>
     </tr>
     <tr>
